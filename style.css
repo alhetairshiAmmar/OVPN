@@ -67,9 +67,21 @@ ul {
 .cta2:hover {
     background-color: #0069d9;
 }
+.join-button {
+    text-align: center;
+    color: #0b3079;
+    background-color: orange;
+    padding: 0.3cm 0.3cm 0.3cm 0.3cm;
+}
+.join-button:hover{
+    background-color: rgb(209, 136, 0);
+}
 
 footer {
     background-color: #d5d5d5;
     padding: 10px;
     text-align: center;
 }
+a {
+    text-decoration: none;
+  }
